@@ -22,7 +22,7 @@ git branch نام برنچ جدید
 git merge اسم برنچ
 git rm اسم فایل
 git branch -d
-
+git clone ادرس پروژه در گیت هاب
 
 software
 --------
