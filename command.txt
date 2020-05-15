@@ -25,6 +25,9 @@ git branch -d
 git clone ادرس پروژه در گیت هاب
 git pull
 git push origin master
+git remote add اسم remote  ادرس  remote
+git remote -v
+
 
 software
 --------
