@@ -29,7 +29,9 @@ git remote add اسم remote  ادرس  remote
 git remote -v
 git show هش فانکشن لاگ مورد نظر
 git tag
-git tag -a v2.0 - m"2nd tag from pc to github"
+git tag -a v3.0 -m"2nd tag from pc to github"
+git tag -a v3.0 هش فانکشن لاگ مورد نظر -m" "
+git tag -l "v*"
 
 
 
