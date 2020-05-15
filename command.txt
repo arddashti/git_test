@@ -23,6 +23,8 @@ git merge اسم برنچ
 git rm اسم فایل
 git branch -d
 git clone ادرس پروژه در گیت هاب
+git pull
+git push origin master
 
 software
 --------
