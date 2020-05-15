@@ -27,6 +27,8 @@ git pull
 git push origin master
 git remote add اسم remote  ادرس  remote
 git remote -v
+git show هش فانکشن لاگ مورد نظر
+git tag
 
 
 software
