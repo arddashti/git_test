@@ -1,0 +1,32 @@
+windows command
+---------------
+cd
+mkdir
+
+
+git command
+-----------
+git init
+git status
+git add
+git add -A
+git commit -m""
+git log
+git config --global user.email "arddashti@gmail.com"
+git config --global user.name "arddashti"
+git diff head
+git reset اسم فایل
+git checkout -- اسم فایل
+git branch
+git branch نام برنچ جدید
+git merge اسم برنچ
+git rm اسم فایل
+git branch -d
+
+
+software
+--------
+ohmyzsh
+
+
+
